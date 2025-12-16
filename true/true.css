@@ -38,6 +38,7 @@ img {
   height: 400px;
 }
 p {
+  text-align: center;
   font-size: 20px;
   font-weight: bold;
 }
